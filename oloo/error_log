@@ -1,0 +1,7 @@
+[28-Apr-2022 11:00:16 UTC] PHP Warning:  require(/home/blockchainwebser/public_html/oloo/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/blockchainwebser/public_html/oloo/index.php on line 34
+[28-Apr-2022 11:00:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/blockchainwebser/public_html/oloo/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blockchainwebser/public_html/oloo/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/blockchainwebser/public_html/oloo/index.php on line 34
+[29-Apr-2022 06:38:11 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/blockchainwebser/public_html/oloo/app/Http/Controllers/AdminRegisterController.php on line 14
+[29-Apr-2022 06:38:18 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/blockchainwebser/public_html/oloo/app/Http/Controllers/AdminRegisterController.php on line 14
